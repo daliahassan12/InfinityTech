@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Infinity Tech</string>
+    <string name="category_customers">Customers</string>
+    <string name="category_products">Products</string>
+    <string name="category_service">Services</string>
+    <string name="category_about">About Us</string>
+
+    <string name="customer1">Ali Mohamed Fawzy</string>
+    <string name="customer2">Ahmed Hamdy Masoud</string>
+    <string name="customer3">Reham El-Sayed Ahmed</string>
+    <string name="customer4">Rana Khaled Hosny</string>
+    <string name="customer5">Omar Ahmed Mohamed</string>
+    <string name="customer6">Ola Yasser Ibrahim</string>
+    <string name="customer7">Mohamed Reda Ibrahim</string>
+
+    <string name="position_customer1">Android Developer</string>
+    <string name="position_customer2">Business Manager</string>
+    <string name="position_customer3">House Wife</string>
+    <string name="position_customer4">Web Designer</string>
+    <string name="position_customer5">Civil Engineer</string>
+    <string name="position_customer6">Science Teacher</string>
+    <string name="position_customer7">Doctor</string>
+
+    <string name="product1">Lego Toys</string>
+    <string name="product2">Robots</string>
+    <string name="product3">Smart Kitchen Machine</string>
+    <string name="product4">Avometer</string>
+    <string name="product5">Creative Mug</string>
+    <string name="product6">Mentssori Toys</string>
+    <string name="product7">Motor Driver</string>
+    <string name="product8">Doctor Tools</string>
+    <string name="product9">Gift Boxes</string>
+    <string name="product10">Geometry Tools</string>
+    <string name="product11">Laptops for Children</string>
+
+    <string name="price_product1">$25</string>
+    <string name="price_product2">$100</string>
+    <string name="price_product3">$350</string>
+    <string name="price_product4">$20</string>
+    <string name="price_product5">$15</string>
+    <string name="price_product6">$50</string>
+    <string name="price_product7">$25</string>
+    <string name="price_product8">$70</string>
+    <string name="price_product9">$10</string>
+    <string name="price_product10">$40</string>
+    <string name="price_product11">$100</string>
+
+    <string name="service1">Courses</string>
+    <string name="service2">Youtube Studio</string>
+    <string name="service3">Work-Shops</string>
+    <string name="service4">Projects Support</string>
+    <string name="service5">Meeting Rooms</string>
+    <string name="service6">Fabrication Lab</string>
+
+    <string name="description_service1">Courses in all subtitles</string>
+    <string name="description_service2">A photography studio in which you can imagine your videos</string>
+    <string name="description_service3">Workshops in variety fields</string>
+    <string name="description_service4">Mentor Support in Engineering Projects</string>
+    <string name="description_service5">Fully equipped and air conditioned rooms</string>
+    <string name="description_service6">A well-equipped laboratory</string>
+
+    <string name="about_us">Infinity tech is Educational club prepared with meeting Rooms for Co-working Teams , Fabrication Lab and Educational Courses and workshop.</string>
+    <string name="email">infinitytech100@gmail.com</string>
+
+</resources>
+
